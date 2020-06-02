@@ -1,7 +1,7 @@
 # Serpico
 
-#testing 06/2020
-
+# testing 2020/June 
+see if we can do much on this dead project...
 
 # April 9th, 2020 - Archiving...
 
